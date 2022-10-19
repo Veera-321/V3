@@ -1,0 +1,3 @@
+Int a,b
+C=a+b
+Printc
